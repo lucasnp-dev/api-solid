@@ -37,4 +37,5 @@ Documentação de cada etapa do projeto:
  1. ~~Estrutura do Projeto~~ (Em Breve);
  2. [Integração com Prisma ORM](https://gist.github.com/lucasnp-dev/d4a1ccbdd5f81b5508ffb08e47fd2f6f);
  3. [Casos de uso e Design Patterns](https://gist.github.com/lucasnp-dev/37ce23d215fcb594b68d67abdc50ea1e) (Atual);
+ 
  ...
